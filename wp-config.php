@@ -1,6 +1,6 @@
 <?php
 
-$table_prefix  = 'wp_';
+$table_prefix  = 'thom_';
 
 define('WP_DEBUG', true);
 

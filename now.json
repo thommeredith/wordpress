@@ -1,6 +1,6 @@
 {
   "dotenv": true,
-  "env": [
+  "env": {
     "DB_HOST",
     "DB_NAME",
     "DB_USER",
@@ -8,5 +8,5 @@
     "SENDGRID_API_KEY",
     "SENDGRID_FROM_NAME",
     "SENDGRID_FROM_EMAIL"
-  ]
+  }
 }
